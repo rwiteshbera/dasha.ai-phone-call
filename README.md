@@ -1,14 +1,10 @@
-# How to load and the demo app
 
-This is the most basic of all demo apps. It is designed for you to open up and build your own app on top of it. Enjoy. 
-
-Please join us in our [Developer Community](https://community.dasha.ai).
 
 1. Clone the repo and install the dependencies:
 
 ```sh
-git clone https://github.com/dasha-samples/blank-slate-app
-cd blank-slate-app
+git clone https://github.com/rwiteshbera/dasha.ai-phone-call
+cd dasha.ai-phone-call
 npm install
 ```
 
